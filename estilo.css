@@ -1,0 +1,55 @@
+body {
+    background-color: #f5f5f5;
+}
+
+div {
+    border: 1px solid #d5d5d5;
+    text-align: center;
+    font-family: Tahoma;
+    padding: 50px;
+
+}
+
+h1 {
+    font-size: 32px;
+    color: #000000;
+
+}
+
+img {
+    width: 190px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 18px;
+}
+p {
+    font-size: 16px;
+    width: 930px;
+    margin: 15px 30px auto auto;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+a {
+    font-size: 14px;
+    color: #f5f5f5;
+    background-color: #49b970;
+    padding: 10px 15px;
+    border-radius: 25px;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+.botao_inicio {
+    padding: 10px 40px;
+    margin-left: 15px;
+}
